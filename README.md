@@ -1,4 +1,0 @@
-# 13water
-AI和UI代码都在13water的压缩包里
-有aitext和uitext两个py文件
-uitext中引用背景图片，需要在同一个目录下运行
